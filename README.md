@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Md. Mahfuzur Rahman
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Web Devloping
+- 🌱 I’m currently learning Web Developing
 - 💞️ I’m looking to collaborate on good
 - 📫 How to reach me best software Engineer and Web Developer
 
