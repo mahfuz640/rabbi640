@@ -1,4 +1,5 @@
-## Hi there, I'm Md. Mahfuzur Rahman- 👋
+## Hi there, I'm Md. Mahfuzur Rahman-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 
 
@@ -8,10 +9,18 @@
 
 
 ### Connect with me
+<a href="https://www.youtube.com/channel/UCQO2a4J9t3RNqjaPu8Xi39g">
 <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://twitter.com/MdMahfu86355570?fbclid=IwAR1EHqZ25Bgml8NxN9tn6HBnKYfxeJ4EIUrAm7XZ2MAcQ0O_vJHcQdVHCAw">
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/md-mahfuzur-rahman-664839208/">
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/mdmahfuz640078/?fbclid=IwAR1TL9aIWopUQwoj4nD2YU7IK1vyli7NN14GVkrGgN1D53czUxwvWIJT3oM">
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br />
 
