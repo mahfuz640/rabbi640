@@ -3,7 +3,10 @@
 
 
 
-### I'm a Student of Computer Science & Engineering, A Web Developer, A Graphics Designer and A MiNi Programmer!!
+### I'm a Student of Computer Science & Engineering
+### A Web Developer
+### A Graphics Designer 
+### A MiNi Programmer!!
 
 #### 🌱 I’m currently learning everything
 
