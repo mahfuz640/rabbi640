@@ -8,7 +8,7 @@
 ### A Graphics Designer 
 ### A MiNi Programmer!!
 
-#### 🌱 I’m currently learning everything
+###🌱 I’m currently learning everything
 
 
 ### Connect with me
