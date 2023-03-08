@@ -4,7 +4,7 @@
 
 
 ### I'm a Student of Computer Science & Engineering
-A Web Developer | A Graphics Designer | A Programmer!!
+A Web Developer || A Programmer!!
 
 ### 🌱 I’m currently learning everything
 
