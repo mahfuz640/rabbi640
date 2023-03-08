@@ -21,6 +21,8 @@ A Web Developer || A Programmer!!
 </a>
 
 <br />
+![Profile views](https://gpvc.arturio.dev/rabbi640)  
+
 
 ### Languages and Tools:
 
